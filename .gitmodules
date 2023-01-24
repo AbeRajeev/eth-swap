@@ -1,0 +1,3 @@
+[submodule "v2-periphery-fork"]
+	path = v2-periphery-fork
+	url = https://github.com/Uniswap/v2-periphery.git
